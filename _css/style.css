@@ -294,6 +294,29 @@ div#rodape {
     margin-left: 0px;
 }
 
+div#clique {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    }
+
+div#clique a {
+    background-color: #e02927;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 10px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.219);
+}
+
+div#clique a:hover {
+    background-color: #3b3535;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 footer {
     background-color: #3155a4;
     border-left: 1px solid #3155a4;
