@@ -154,6 +154,12 @@ section p {
     line-height: 1.5em;
 }
 
+.vd2 {
+    margin: auto;
+    padding-left: 10px;
+    align-items: center
+}
+
 div#acao {
     display: block;
     padding: 10px;
