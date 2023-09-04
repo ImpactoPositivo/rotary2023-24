@@ -197,6 +197,20 @@ img#acao {
     padding: 10px 9px;
 }
 
+div#acao {
+    display: block;
+    padding: 10px;
+}
+
+div#acao img {
+    width: 100%;
+}
+
+div#acao figcaption {
+    color: var(--cor3);
+    font-size: .8em;
+}
+
 div#enfase p {
     font-size: .7em;
     line-height: 1.5em;
